@@ -185,6 +185,12 @@ height: auto;
   border-radius: 7px;
   margin-bottom: 35px;
 }
+.card__buy-btn:hover {
+  background-color: #d9dd03;
+}
+.card__buy-btn:active {
+  background-color: #bfc203;
+}
 .card__buy-btn a{
   color: #000000;
   text-decoration: none;
