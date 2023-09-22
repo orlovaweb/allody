@@ -131,6 +131,16 @@
   .card__description-title{
     font-size: 26px;
   }
+  .card__buy-img{
+    width: 150px;
+  }
+  .card__buy-info p{
+    font-size: 32px;
+  }
+  .card__buy-btn {
+    /* padding: 6px 7px; */
+    font-size: 14px;
+  }
 }
 @media screen and (max-width: 540px) {
   .banner::before{
